@@ -1,6 +1,6 @@
 {
-  "id": "aba38d38-f40c-4bc3-9c6e-cbe8a9ee81c6",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "29bc67de-85ad-4800-afe7-96254c8fe846",
+  "prevId": "aba38d38-f40c-4bc3-9c6e-cbe8a9ee81c6",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
@@ -42,12 +42,6 @@
           "type": "varchar(255)",
           "primaryKey": false,
           "notNull": false
-        },
-        "price": {
-          "name": "price",
-          "type": "double precision",
-          "primaryKey": false,
-          "notNull": true
         }
       },
       "indexes": {},
